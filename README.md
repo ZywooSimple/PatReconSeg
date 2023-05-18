@@ -22,3 +22,5 @@ $ conda env create -f PatReconSeg.yaml
 
 ## Train & Test
 To train our model, run `train.py`.
+
+To test our model, run `test.py`.
