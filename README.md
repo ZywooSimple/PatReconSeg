@@ -20,5 +20,5 @@ The URIM module is shown below.
 $ conda env create -f PatReconSeg.yaml
 ```
 
-
-To train our model, run train.py.
+## Train & Test
+To train our model, run `train.py`.
