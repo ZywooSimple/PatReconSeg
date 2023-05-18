@@ -7,7 +7,9 @@ The Reconstruction Toolkit (RTK) is an open source cross-platform software for r
 Our network is structured as follows.
 For more details, please read the paper.
 ![image](image.png)
+The DASC module is shown below.
 ![image1](1.png)
+The URIM module is shown below.
 ![image2](2.png)
 
 
